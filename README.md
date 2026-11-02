@@ -1,3 +1,3 @@
-*Nombre*= Paula Bernal García
+**Nombre**= Paula Bernal García
 
-*Actividad*= UD1 · Adquirir un equipo comprometido
+**Actividad**= UD1 · Adquirir un equipo comprometido
