@@ -1,0 +1,49 @@
+﻿Created By Exterro® FTK® Imager 8.3.0.27 
+
+Case Information: 
+Case Number: 01
+Evidence Number: 01
+Unique Description: 
+Examiner: Paula
+Notes:  
+Encrypted Password : N/A
+
+Computer Name: DESKTOP-2L7L1VG
+Windows Edition: Windows 10 Pro
+Windows Version: Microsoft Windows 6.3.19045.6466
+OS build: 6.3.19045
+Processor: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+Installed RAM: 16 GB
+
+--------------------------------------------------------------
+
+Information for C:\Users\maria\Desktop\Proyecto 1 - Analisis forense\FORENSI_10_disk0_image:
+    Source data size: 32768 MB
+    Sector count:    67108864
+  [Computed Hashes]
+    MD5 Hash:    6fd9d19f368e49b5995bc8f0cfcdaa0b
+    SHA1 Hash:   5fb6e947b9cc5b820ecf6918fc3102042fcc068e
+
+Verification Definitions:
+  Computed hash: The hash calculated of the source media during the creation or verify process
+  Stored verification hash: The hash calculated during image acquisition and stored inside the image
+  Report hash: The hash calculated during image acquisition and stored in the image summary report
+
+Image Information:
+  Acquisition started:   Wed Nov 11 17:31:48 2026 (2026-11-11T16:31:48Z)
+  Acquisition finished:  Wed Nov 11 17:33:43 2026 (2026-11-11T16:33:43Z)
+  Segment list:
+    C:\Users\maria\Desktop\Proyecto 1 - Analisis forense\FORENSI_10_disk0_image.E01
+    C:\Users\maria\Desktop\Proyecto 1 - Analisis forense\FORENSI_10_disk0_image.E02
+    C:\Users\maria\Desktop\Proyecto 1 - Analisis forense\FORENSI_10_disk0_image.E03
+    C:\Users\maria\Desktop\Proyecto 1 - Analisis forense\FORENSI_10_disk0_image.E04
+
+Image Verification Results:
+  Verification started:  Wed Nov 11 17:33:43 2026 (2026-11-11T16:33:43Z)
+  Verification finished: Wed Nov 11 17:35:00 2026 (2026-11-11T16:35:00Z)
+  MD5 - Computed hash:             6fd9d19f368e49b5995bc8f0cfcdaa0b : verified
+  MD5 - Stored verification hash:  6fd9d19f368e49b5995bc8f0cfcdaa0b : verified
+  MD5 - Report hash:               6fd9d19f368e49b5995bc8f0cfcdaa0b : verified
+  SHA1 - Computed hash:            5fb6e947b9cc5b820ecf6918fc3102042fcc068e : verified
+  SHA1 - Stored verification hash: 5fb6e947b9cc5b820ecf6918fc3102042fcc068e : verified
+  SHA1 - Report hash:              5fb6e947b9cc5b820ecf6918fc3102042fcc068e : verified

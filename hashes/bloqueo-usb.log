@@ -1,0 +1,30 @@
+﻿2026-11-03 09:06:39  maria  Politica global WriteProtect=1
+2026-11-03 09:06:39  maria  La politica se aplica al conectar: desconecta y vuelve a conectar los USB que ya estuvieran puestos.
+2026-11-03 09:09:12  maria  Comprobacion: Disco 2 F: : ESCRIBE -> NO PROTEGIDO
+2026-11-03 09:09:12  maria  Comprobacion: Disco 2 G: : ESCRIBE -> NO PROTEGIDO
+2026-11-03 09:09:18  maria  Comprobacion: Disco 2 F: : ESCRIBE -> NO PROTEGIDO
+2026-11-03 09:09:18  maria  Comprobacion: Disco 2 G: : ESCRIBE -> NO PROTEGIDO
+2026-11-03 09:09:21  maria  Politica global WriteProtect=0
+2026-11-03 09:09:23  maria  Politica global WriteProtect=1
+2026-11-03 09:09:23  maria  La politica se aplica al conectar: desconecta y vuelve a conectar los USB que ya estuvieran puestos.
+2026-11-03 09:09:25  maria  Comprobacion: Disco 2 F: : ESCRIBE -> NO PROTEGIDO
+2026-11-03 09:09:25  maria  Comprobacion: Disco 2 G: : ESCRIBE -> NO PROTEGIDO
+2026-11-03 09:10:43  maria  Politica global WriteProtect=0
+2026-11-03 09:10:45  maria  Politica global WriteProtect=1
+2026-11-03 09:10:45  maria  La politica se aplica al conectar: desconecta y vuelve a conectar los USB que ya estuvieran puestos.
+2026-11-03 09:10:47  maria  Comprobacion: Disco 2 F: : no deja escribir -> PROTEGIDO
+2026-11-03 09:10:47  maria  Comprobacion: Disco 2 G: : no deja escribir -> PROTEGIDO
+2026-11-03 09:11:07  maria  Politica global WriteProtect=0
+2026-11-03 09:11:09  maria  Comprobacion: Disco 2 F: : no deja escribir -> PROTEGIDO
+2026-11-03 09:11:09  maria  Comprobacion: Disco 2 G: : no deja escribir -> PROTEGIDO
+2026-11-03 09:11:13  maria  Comprobacion: Disco 2 F: : no deja escribir -> PROTEGIDO
+2026-11-03 09:11:13  maria  Comprobacion: Disco 2 G: : no deja escribir -> PROTEGIDO
+2026-11-03 09:11:46  maria  Comprobacion: Disco 2 F: : ESCRIBE -> NO PROTEGIDO
+2026-11-03 09:11:46  maria  Comprobacion: Disco 2 G: : ESCRIBE -> NO PROTEGIDO
+2026-11-03 11:50:48  maria  Politica global WriteProtect=1
+2026-11-03 11:50:48  maria  La politica se aplica al conectar: desconecta y vuelve a conectar los USB que ya estuvieran puestos.
+2026-11-03 11:51:48  maria  Politica global WriteProtect=0
+2026-11-11 18:06:12  maria  Disco 3 (General USB Flash Disk, serie 0108000000084121) -> SOLO LECTURA
+2026-11-11 18:08:03  maria  Comprobacion: Disco 3 G: : no deja escribir -> PROTEGIDO
+2026-11-11 18:08:03  maria  Comprobacion: Disco 3 H: : no deja escribir -> PROTEGIDO
+2026-11-11 18:08:03  maria  Comprobacion: Disco 2 F: : ESCRIBE -> NO PROTEGIDO
